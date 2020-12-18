@@ -50,7 +50,7 @@
                 "iotCentralDeviceBridge": "function-app"
             },
             "identity": {
-                "type": "SystemAssigned"
+                "type": "UserAssigned"
             },
             "properties": {
                 "enabled": true,
